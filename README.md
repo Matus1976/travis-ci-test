@@ -7,3 +7,4 @@ travis-ci-testing
 - added an env var
 - super
 - duper
+- yay it works
