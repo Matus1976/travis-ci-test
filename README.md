@@ -6,3 +6,4 @@ travis-ci-testing
 - next test
 - added an env var
 - super
+- duper
