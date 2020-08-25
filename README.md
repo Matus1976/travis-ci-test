@@ -10,3 +10,4 @@ travis-ci-testing
 - yay it works
 - test 15 branch
 - ok
+- on checkrun
