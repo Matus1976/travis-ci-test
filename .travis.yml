@@ -4,4 +4,6 @@ python:
   - "3.6"      # current default Python on Travis CI
 
 script:
-  - pytest
+  - python hello.py
+
+#- pytest
