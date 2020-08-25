@@ -4,3 +4,4 @@ travis-ci-testing
 ### Yet another Header
  - deleted the python script from the travis yml
 - next test
+- added an env var
