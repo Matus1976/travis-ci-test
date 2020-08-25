@@ -1,2 +1,2 @@
-print "hello world"
-print "Tuesday"
+print("hello world")
+print("Tuesday")
