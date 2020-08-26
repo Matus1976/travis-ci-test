@@ -14,3 +14,4 @@ travis-ci-testing
 - dev 2
 - dev 4
 - dev 6
+- dev 7
