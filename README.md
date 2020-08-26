@@ -13,3 +13,4 @@ travis-ci-testing
 - on checkrun
 - dev 2
 - dev 4
+- dev 6
